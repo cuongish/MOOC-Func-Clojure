@@ -1,5 +1,5 @@
 # Functional Programming in Clojure
-A course on functional programming with Clojure
+A course on functional programming with Clojure http://mooc.fi/courses/2014/clojure/
 
 [![Build Status](https://travis-ci.org/ypandit/MOOC-Func-Clojure.svg?branch=master)](https://travis-ci.org/ypandit/MOOC-Func-Clojure)
 
